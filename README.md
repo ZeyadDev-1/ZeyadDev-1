@@ -24,6 +24,7 @@
   <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" height="46" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="46" title="Java"/>
   <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" height="46" title="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/cyberalien/line-md/master/svg/database.svg" height="46" title="SQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="46" title="HTML"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="46" title="CSS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="46" title="Bootstrap"/>
@@ -32,4 +33,6 @@
   <img src="https://skillicons.dev/icons?i=flask&theme=dark" height="46" title="Flask"/>
   <img src="https://skillicons.dev/icons?i=react&theme=dark" height="46" title="React"/>
   <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" height="46" title="TensorFlow"/>
+  <img src="https://raw.githubusercontent.com/cyberalien/line-md/master/svg/database.svg" height="46" title="MySQL"/>
+  <img src="https://raw.githubusercontent.com/cyberalien/line-md/master/svg/visual-studio-code.svg" height="46" title="VS Code"/>
 </p>
