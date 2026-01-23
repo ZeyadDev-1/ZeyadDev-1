@@ -28,7 +28,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="46" title="CSS"/>
   <img src="https://skillicons.dev/icons?i=django&theme=dark" height="46" title="Django"/>
   <img src="https://skillicons.dev/icons?i=flask&theme=dark" height="46" title="Flask"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Artificial_Intelligence_logo.svg/512px-Artificial_Intelligence_logo.svg.png" height="46" title="Machine Learning"/>
+  <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" height="46" title="Machine Learning / PyTorch"/>
   <img src="https://skillicons.dev/icons?i=spring&theme=dark" height="46" title="Spring Boot"/>
   <img src="https://skillicons.dev/icons?i=react&theme=dark" height="46" title="React"/>
   <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" height="46" title="TensorFlow"/>
