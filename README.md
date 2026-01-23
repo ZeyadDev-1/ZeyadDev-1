@@ -5,6 +5,7 @@
 📍 Istanbul, Türkiye <br>
 🎓 Bahçeşehir University (2022 – 2026)
 </p>
+
 ## 🚀 About Me
 
 - 🎓 Senior-year **Software Engineering** student
