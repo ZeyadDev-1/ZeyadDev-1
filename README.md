@@ -30,7 +30,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="46" title="CSS"/>
   <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" height="46" title="Machine Learning / PyTorch"/>
   <img src="https://skillicons.dev/icons?i=spring&theme=dark" height="46" title="Spring Boot"/>
-  <img src="https://skillicons.dev/icons?i=react&theme=dark" height="46" title="React"/>
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" height="46" title="React"/><br>
   <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" height="46" title="TensorFlow"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="46" title="Bootstrap"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="46" title="MySQL"/>
