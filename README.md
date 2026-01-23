@@ -31,9 +31,4 @@
   <img src="https://skillicons.dev/icons?i=react&theme=dark" height="46" title="React"/>
   <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" height="46" title="TensorFlow"/>
   <img src="https://skillicons.dev/icons?i=docker&theme=dark" height="46" title="Docker"/>
-  <img src="https://skillicons.dev/icons?i=git&theme=dark" height="46" title="Git"/>
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" height="46" title="GitHub"/>
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="46" title="MySQL"/>
-  <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" height="46" title="SQLite"/>
-  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="46" title="VS Code"/>
 </p>
