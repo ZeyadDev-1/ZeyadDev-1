@@ -39,4 +39,8 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/ZeyadDev-1/ZeyadDev-1/output/github-contribution-grid-snake-dark.svg" />
 </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZeyadDev-1&theme=dark&hide_border=true" />
+</p>
+
 
