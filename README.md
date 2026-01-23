@@ -32,7 +32,7 @@
   <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" height="46" title="Machine Learning / PyTorch"/>
   <img src="https://skillicons.dev/icons?i=spring&theme=dark" height="46" title="Spring Boot"/>
   <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" height="46" title="TensorFlow"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="46" title="Bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="46" title="Bootstrap"/><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="46" title="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="46" title="VS Code"/>
 
