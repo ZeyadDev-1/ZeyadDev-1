@@ -27,7 +27,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="46" title="HTML"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="46" title="CSS"/>
   <img src="https://skillicons.dev/icons?i=django&theme=dark" height="46" title="Django"/>
-  <img src="https://skillicons.dev/icons?i=flask&theme=dark" height="46" title="Flask"/>
+  <img src="https://skillicons.dev/icons?i=flask&theme=dark" height="46" title="Flask"/><br>
   <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" height="46" title="Machine Learning / PyTorch"/>
   <img src="https://skillicons.dev/icons?i=spring&theme=dark" height="46" title="Spring Boot"/>
   <img src="https://skillicons.dev/icons?i=react&theme=dark" height="46" title="React"/>
