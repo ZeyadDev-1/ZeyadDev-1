@@ -20,14 +20,19 @@
 ## 🛠️ Tools & Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java&theme=dark" height="48"/>
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="48"/>
-  <img src="https://skillicons.dev/icons?i=javascript&theme=dark" height="48"/>
-  <img src="https://skillicons.dev/icons?i=spring&theme=dark" height="48"/>
-  <img src="https://skillicons.dev/icons?i=django&theme=dark" height="48"/>
-  <img src="https://skillicons.dev/icons?i=flask&theme=dark" height="48"/>
-  <img src="https://skillicons.dev/icons?i=react&theme=dark" height="48"/>
-  <img src="https://skillicons.dev/icons?i=docker&theme=dark" height="48"/>
-  <img src="https://skillicons.dev/icons?i=git&theme=dark" height="48"/>
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" height="48"/>
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" height="46" title="Java"/>
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" height="46" title="Python"/>
+  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" height="46" title="JavaScript"/>
+  <img src="https://media.giphy.com/media/8UF0EXzsc0Ckg/giphy.gif" height="46" title="SQL"/>
+  <img src="https://skillicons.dev/icons?i=spring&theme=dark" height="46" title="Spring Boot"/>
+  <img src="https://skillicons.dev/icons?i=django&theme=dark" height="46" title="Django"/>
+  <img src="https://skillicons.dev/icons?i=flask&theme=dark" height="46" title="Flask"/>
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" height="46" title="React"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" height="46" title="TensorFlow"/>
+  <img src="https://skillicons.dev/icons?i=docker&theme=dark" height="46" title="Docker"/>
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" height="46" title="Git"/>
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" height="46" title="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="46" title="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" height="46" title="SQLite"/>
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="46" title="VS Code"/>
 </p>
