@@ -24,8 +24,9 @@
   <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" height="46" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="46" title="Java"/>
   <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" height="46" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="46" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="46" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="46" title="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="46" title="CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="46" title="Bootstrap"/>
   <img src="https://skillicons.dev/icons?i=spring&theme=dark" height="46" title="Spring Boot"/>
   <img src="https://skillicons.dev/icons?i=django&theme=dark" height="46" title="Django"/>
   <img src="https://skillicons.dev/icons?i=flask&theme=dark" height="46" title="Flask"/>
