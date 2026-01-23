@@ -24,7 +24,6 @@
   <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" height="46" title="Python"/>
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" height="46" title="Python"/>
   <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" height="46" title="JavaScript"/>
-  <img src="https://media.giphy.com/media/8UF0EXzsc0Ckg/giphy.gif" height="46" title="SQL"/>
   <img src="https://skillicons.dev/icons?i=spring&theme=dark" height="46" title="Spring Boot"/>
   <img src="https://skillicons.dev/icons?i=django&theme=dark" height="46" title="Django"/>
   <img src="https://skillicons.dev/icons?i=flask&theme=dark" height="46" title="Flask"/>
