@@ -20,8 +20,14 @@
 ## 🛠️ Tools & Technologies
 
 <p align="left">
-  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" height="46"/>
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" height="46"/>
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" height="46"/>
-  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" height="46"/>
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" height="48"/>
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="48"/>
+  <img src="https://skillicons.dev/icons?i=javascript&theme=dark" height="48"/>
+  <img src="https://skillicons.dev/icons?i=spring&theme=dark" height="48"/>
+  <img src="https://skillicons.dev/icons?i=django&theme=dark" height="48"/>
+  <img src="https://skillicons.dev/icons?i=flask&theme=dark" height="48"/>
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" height="48"/>
+  <img src="https://skillicons.dev/icons?i=docker&theme=dark" height="48"/>
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" height="48"/>
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" height="48"/>
 </p>
