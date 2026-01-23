@@ -21,7 +21,7 @@
 ## 🛠️ Tools & Technologies
 
 <p align="left">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" height="46" title="Java"/>
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" height="46" title="Python"/>
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" height="46" title="Python"/>
   <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" height="46" title="JavaScript"/>
   <img src="https://media.giphy.com/media/8UF0EXzsc0Ckg/giphy.gif" height="46" title="SQL"/>
