@@ -22,7 +22,7 @@
 
 <p align="left">
   <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" height="46" title="Python"/>
-  <img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" height="46" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="46" title="Java"/>
   <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" height="46" title="JavaScript"/>
   <img src="https://skillicons.dev/icons?i=spring&theme=dark" height="46" title="Spring Boot"/>
   <img src="https://skillicons.dev/icons?i=django&theme=dark" height="46" title="Django"/>
