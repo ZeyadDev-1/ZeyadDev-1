@@ -33,6 +33,7 @@
   <img src="https://skillicons.dev/icons?i=flask&theme=dark" height="46" title="Flask"/>
   <img src="https://skillicons.dev/icons?i=react&theme=dark" height="46" title="React"/>
   <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" height="46" title="TensorFlow"/>
-  <img src="https://raw.githubusercontent.com/cyberalien/line-md/master/svg/database.svg" height="46" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="46" title="MySQL"/>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="46" title="VS Code"/>
 </p>
