@@ -12,3 +12,8 @@
 - 🧠 Interested in **AI, Backend, and Web Development**
 - 🔍 Looking for **internship opportunities**
 - 🌱 Strong believer in **continuous learning & problem solving**
+## 🌍 Languages
+
+- 🇸🇦 Arabic — Native  
+- 🇬🇧 English — B2  
+- 🇹🇷 Turkish — B2  
