@@ -5,3 +5,10 @@
 📍 Istanbul, Türkiye <br>
 🎓 Bahçeşehir University (2022 – 2026)
 </p>
+## 🚀 About Me
+
+- 🎓 Senior-year **Software Engineering** student
+- 💻 Experienced with **Java, Python, JavaScript, SQL**
+- 🧠 Interested in **AI, Backend, and Web Development**
+- 🔍 Looking for **internship opportunities**
+- 🌱 Strong believer in **continuous learning & problem solving**
