@@ -28,6 +28,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="46" title="CSS3"/>
   <img src="https://skillicons.dev/icons?i=django&theme=dark" height="46" title="Django"/>
   <img src="https://skillicons.dev/icons?i=flask&theme=dark" height="46" title="Flask"/>
+  </p>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/machine-learning/machine-learning.png" height="46" title="Machine Learning"/>
   <img src="https://skillicons.dev/icons?i=spring&theme=dark" height="46" title="Spring Boot"/>
   <img src="https://skillicons.dev/icons?i=react&theme=dark" height="46" title="React"/>
