@@ -8,10 +8,9 @@
 
 ## 🚀 About Me
 
-- 🎓 Senior-year **Software Engineering** student
 - 💻 Experienced with **Java, Python, JavaScript, SQL**
+- 🚧 **In Progress:** Advanced machine learning & deep learning (CNNs), AI agents and autonomous workflows, MLOps
 - 🧠 Interested in **AI, Backend, and Web Development**
-- 🔍 Looking for **internship opportunities**
 - 🌱 Strong believer in **continuous learning & problem solving**
 ## 🌍 Languages
 
@@ -35,5 +34,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="46" title="Bootstrap"/><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="46" title="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="46" title="VS Code"/>
+
+
+  ## 📬 Contact
+
+<p align="center">
+  <a href="mailto:zeyad.officemail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/zeyad-abouelkassem-" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
 
 
