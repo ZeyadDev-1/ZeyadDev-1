@@ -15,7 +15,7 @@
 ## 🌍 Languages
 
 - 🇸🇦 Arabic — Native  
-- 🇬🇧 English — B2  
+- 🇬🇧 English — C1  
 - 🇹🇷 Turkish — B2
 ## 💜 Tools & Technologies
 
