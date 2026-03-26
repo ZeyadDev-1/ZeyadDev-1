@@ -47,8 +47,6 @@
   </a>
 </p>
 
-## Pac-Man Contribution Graph
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/ZeyadDev-1/ZeyadDev-1/output/pacman-contribution-graph.svg"/>
 </p>
