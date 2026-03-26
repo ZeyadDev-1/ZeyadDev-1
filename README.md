@@ -48,7 +48,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ZeyadDev-1/ZeyadDev-1/output/pacman-contribution-graph.svg"/>
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ZeyadDev-1/ZeyadDev-1/output/pacman-contribution-graph-dark.svg">
 </p>
 
 
