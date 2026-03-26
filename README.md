@@ -50,7 +50,7 @@
 ## Pac-Man Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ZeyadDev-1/ZeyadDev-1/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph" />
+  <img src="https://raw.githubusercontent.com/ZeyadDev-1/ZeyadDev-1/output/pacman-contribution-graph.svg"/>
 </p>
 
 
