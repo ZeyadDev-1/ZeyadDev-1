@@ -6,6 +6,17 @@
 🎓 Bahçeşehir University (2022 – 2026)
 </p>
 
+## 📬 Contact
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/zeyad-abouelkassem-b28979369/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:zeyad.officemail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
 ## 🚀 About Me
 
 - 💻 Experienced with **Java, Python, JavaScript, SQL**
@@ -35,17 +46,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="46" title="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="46" title="VS Code"/>
 
-
-## 📬 Contact
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/zeyad-abouelkassem-b28979369/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:zeyad.officemail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ZeyadDev-1/ZeyadDev-1/output/pacman-contribution-graph.svg"/>
