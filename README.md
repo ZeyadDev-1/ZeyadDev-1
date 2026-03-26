@@ -47,5 +47,7 @@
   </a>
 </p>
 
+![Pac-Man contribution animation](./github_pacman_readme.gif)
+
 
 
