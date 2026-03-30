@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-Predict nanoparticle mean size from SEM images using a PyTorch CNN, served via a Django REST API with a React frontend for real-time inference and history tracking.
+Predict nanoparticle mean size from microscopic images using a PyTorch CNN, served via a Django REST API with a React frontend for real-time inference and history tracking.
 </p>
 
 ---
