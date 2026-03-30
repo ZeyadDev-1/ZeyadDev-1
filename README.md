@@ -45,14 +45,10 @@ Privacy-first mood tracking app with journaling, insights, and analytics. Built 
 
 ---
 
-### ⚙️ GearBox (e-commerce)
+### 🛒 GearBox — E-commerce Platform
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ZeyadDev-1/ZeyadDev-1/main/GearBox.png" width="500"/>
-</p>
-
-<p align="center">
-Short 1–2 line description explaining the value, tech stack, and what problem it solves.
+Full-stack e-commerce application with product browsing, cart management, and checkout flow, built using Spring Boot, Thymeleaf, and JPA with admin dashboard and inventory management.
 </p>
 
 ---
