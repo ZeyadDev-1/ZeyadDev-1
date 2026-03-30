@@ -47,9 +47,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="46" title="VS Code"/>
 
 
-<p align="center">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ZeyadDev-1/ZeyadDev-1/output/pacman-contribution-graph-dark.svg">
-</p>
 
 
 
