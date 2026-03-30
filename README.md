@@ -17,17 +17,59 @@
   </a>
 </p>
 
+---
+
+## 🧠 Featured Projects
+
+### 🚀 AI-Powered Nanoparticle Analysis
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ZeyadDev-1/ZeyadDev-1/main/AI-powered-nanoparticles-analysis.png" width="800"/>
+</p>
+
+<p align="center">
+Predict nanoparticle mean size from SEM images using a PyTorch CNN, served via a Flask API with a React frontend for real-time inference and history tracking.
+</p>
+
+---
+
+### 🧠 InnerLog — Mental Health Companion
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ZeyadDev-1/ZeyadDev-1/main/InnerLog.png" width="800"/>
+</p>
+
+<p align="center">
+Privacy-first mood tracking app with journaling, insights, and analytics. Built with Django REST API and React with secure authentication flows.
+</p>
+
+---
+
+### ⚙️ GearBox (e-commerce)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ZeyadDev-1/ZeyadDev-1/main/GearBox.png" width="800"/>
+</p>
+
+<p align="center">
+Short 1–2 line description explaining the value, tech stack, and what problem it solves.
+</p>
+
+---
+
 ## 🚀 About Me
 
 - 💻 Experienced with **Java, Python, JavaScript, SQL**
 - 🚧 **In Progress:** Advanced machine learning & deep learning (CNNs), AI agents and autonomous workflows, MLOps
 - 🧠 Interested in **AI, Backend, and Web Development**
 - 🌱 Strong believer in **continuous learning & problem solving**
+
 ## 🌍 Languages
 
 - 🇸🇦 Arabic — Native  
 - 🇬🇧 English — C1  
-- 🇹🇷 Turkish — B2
+- 🇹🇷 Turkish — B2  
+
 ## 💜 Tools & Technologies
 
 <p align="left">
@@ -45,8 +87,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="46" title="Bootstrap"/><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="46" title="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="46" title="VS Code"/>
-
-
-
-
-
