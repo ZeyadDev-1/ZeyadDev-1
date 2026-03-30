@@ -24,7 +24,7 @@
 ### 🚀 AI-Powered Nanoparticle Analysis
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ZeyadDev-1/ZeyadDev-1/main/AI-powered-nanoparticles-analysis.png" width="600"/>
+  <img src="https://raw.githubusercontent.com/ZeyadDev-1/ZeyadDev-1/main/AI-powered-nanoparticles-analysis.png" width="550"/>
 </p>
 
 <p align="center">
@@ -36,7 +36,7 @@ Predict nanoparticle mean size from SEM images using a PyTorch CNN, served via a
 ### 🧠 InnerLog — Mental Health Companion
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ZeyadDev-1/ZeyadDev-1/main/InnerLog.png" width="600"/>
+  <img src="https://raw.githubusercontent.com/ZeyadDev-1/ZeyadDev-1/main/InnerLog.png" width="550"/>
 </p>
 
 <p align="center">
@@ -48,7 +48,7 @@ Privacy-first mood tracking app with journaling, insights, and analytics. Built 
 ### 🛒 GearBox — E-commerce Platform
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ZeyadDev-1/ZeyadDev-1/main/GearBox.png" width="600"/>
+  <img src="https://raw.githubusercontent.com/ZeyadDev-1/ZeyadDev-1/main/GearBox.png" width="550"/>
 </p>
 
 <p align="center">
