@@ -48,7 +48,7 @@ Privacy-first mood tracking app with journaling, insights, and analytics. Built 
 ### 🛒 GearBox — E-commerce Platform
 
 <p align="center">
-  <img src="" width="550"/>
+  <img src="https://raw.githubusercontent.com/ZeyadDev-1/ZeyadDev-1/main/GearBox.png" width="550"/>
 </p>
 
 <p align="center">
