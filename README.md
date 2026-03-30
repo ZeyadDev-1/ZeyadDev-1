@@ -36,7 +36,7 @@ Predict nanoparticle mean size from SEM images using a PyTorch CNN, served via a
 ### 🧠 InnerLog — Mental Health Companion
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ZeyadDev-1/ZeyadDev-1/main/InnerLog.png" width="700"/>
+  <img src="https://raw.githubusercontent.com/ZeyadDev-1/ZeyadDev-1/main/InnerLog.png" width="600"/>
 </p>
 
 <p align="center">
@@ -46,6 +46,10 @@ Privacy-first mood tracking app with journaling, insights, and analytics. Built 
 ---
 
 ### 🛒 GearBox — E-commerce Platform
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ZeyadDev-1/ZeyadDev-1/main/GearBox.png" width="600"/>
+</p>
 
 <p align="center">
 Full-stack e-commerce application with product browsing, cart management, and checkout flow, built using Spring Boot, Thymeleaf, and JPA with admin dashboard and inventory management.
