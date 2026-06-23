@@ -33,14 +33,14 @@ Predict nanoparticle mean size from microscopic images using a PyTorch CNN, serv
 
 ---
 
-### 🧠 InnerLog — Mental Health Companion
+### 🧠 GoWeb — Website Quality & UX Auditor
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ZeyadDev-1/ZeyadDev-1/main/InnerLog.png" width="550"/>
+  <img src="https://raw.githubusercontent.com/ZeyadDev-1/ZeyadDev-1/main/goweb.png" width="550"/>
 </p>
-
+Website auditing tool that renders public pages in desktop and mobile views, extracts browser-visible UX signals, and generates structured usability reports with recommendations and PDF export.
 <p align="center">
-Privacy-first mood tracking app with journaling, insights, and analytics. Built with Django REST API and React with secure authentication flows.
+
 </p>
 
 ---
