@@ -33,7 +33,7 @@ Predict nanoparticle mean size from microscopic images using a PyTorch CNN, serv
 
 ---
 
-### 🧠 GoWeb — Website Quality & UX Auditor
+### 🔍 GoWeb — Website Quality & UX Auditor
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ZeyadDev-1/ZeyadDev-1/main/goweb.png" width="550"/>
